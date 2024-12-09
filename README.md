@@ -11,6 +11,8 @@
  https://medium.com/@thliu_78532/building-a-drowsiness-driving-monitor-cf6402c6543d
 
 
+## Figures:
+
 Figure 1. Network Architecture
 Each bar represents a singular layer in the network. Underneath the bar graph, the label for each of the different colors can be found. Bars of the same length vertically have the same number of input neurons and bars of the same thickness horizontally have the same number of output neurons. The figure was generated in the section of the code labled: Network Architecture.
 
